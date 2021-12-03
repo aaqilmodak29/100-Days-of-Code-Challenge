@@ -1,0 +1,48 @@
+body{
+    margin: 5px;
+    background-color: #1369A2;
+}
+
+.title{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: white
+}
+
+.containers{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 1px 2px 2px 3px #031623;
+    margin-bottom: 50px
+
+}
+
+.profile{
+    width: 200px;
+    height: auto;
+    position: relative;
+    float: left;
+    padding: 10px
+}
+
+.text{
+    font-size: 18px
+}
+
+.featured-img{
+    width: 350px;
+    height: auto;
+    position: relative;
+    float: right;
+    padding: 10px
+}
+
+.graph-img{
+    width: 350px;
+    height: auto;
+    position: relative;
+    float: left;
+    padding: 10px
+}
